@@ -1,0 +1,1 @@
+node_modules/\n.env\n*.log\n*.pyc\n_pycache_/\n.DS_Store\nmodel.h5
